@@ -1,0 +1,41 @@
+.container{
+    width: 1300px;
+    margin: auto;
+}
+
+.hedder-img{
+    height: 30px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear{
+    clear: both;
+    display: block;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+.bag{
+    background-color: rgb(212, 212, 206);
+}
+
+
+.collapsible{
+    color: blue;
+    background-color: beige;
+   height: 40px;
+}
+.click a{
+    background-color: blue;
+    color: #fff;
+}
