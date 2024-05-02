@@ -28,7 +28,9 @@
 .bag{
     background-color: rgb(212, 212, 206);
 }
-
+.b-img{
+    height: 600px;
+}
 
 .collapsible{
     color: blue;
@@ -38,4 +40,10 @@
 .click a{
     background-color: blue;
     color: #fff;
+}
+.f-content{
+   color: #fff;
+   text-align: center;
+   height: 50px;
+   line-height: 50px;
 }
